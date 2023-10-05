@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+    <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-W-C-J&hide=contribs,issues&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</div>
 
-<!--
-**A-W-C-J/A-W-C-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+    
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-W-C-J&layout=donut&theme=radical" alt="Top Langs">
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
